@@ -2,6 +2,6 @@
 
 import Foundation
 
-var greeting = "Hello, playgroundddddd"
+var greeting = "Hello, playground"
 
 //: [Next](@next)
